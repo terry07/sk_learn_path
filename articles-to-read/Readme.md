@@ -33,6 +33,8 @@ Welcome! 🌟 Add articles and resources that you find valuable during your lear
 | Title | Author | Link | Notes | Topic
 |-------|--------|------|-------|-------|
 | Understanding LLM Inference      | Alex Razvant | [Substack](https://multimodalai.substack.com/p/understanding-llm-inference)    | Explaining LLM pre-fill and generation phases, unpacking model configuration files from HuggingFace.| `LLMs`, `HuggingFace`
+|**RAG** - The 2025 Best-Practice Stack | AI MakerSpace team | [Canva Presentation](https://www.canva.com/design/DAGnbuv7lyw/r3DQyL9y6vGh8kuAYZmwlg/view?utm_content=DAGnbuv7lyw&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbf612e67eb) | What enterprises must do with their infrastructure stack to maximize development velocity, including how to leverage the right amount of on-prem and cloud tools. | `RAG`, `Production Infra`
+| Do One Thing Well | Remy Louf | [Blog](https://blog.dottxt.ai/do-one-thing-well.html) | Complex behavior emerges from the composition of simple parts, rather than from the complexity of individual components. | `Agents`, `Automations`
 
 ## 🤝 Contributing
 
@@ -41,6 +43,8 @@ Feel free to suggest articles or improvements by opening a pull request (updates
 ## 🔗 Resources
 
 - [Neural Bits](https://multimodalai.substack.com/)
+- [AI MakerSpace](https://aimakerspace.io/)
+- [.txt](https://dottxt.co/)
 
 ---
 
