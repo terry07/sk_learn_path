@@ -48,6 +48,7 @@ Feel free to suggest articles or improvements by opening a pull request (updates
 - [Neural Bits](https://multimodalai.substack.com/)
 - [AI MakerSpace](https://aimakerspace.io/)
 - [.txt](https://dottxt.co/)
+- [MachineLearningMastery](https://machinelearningmastery.com/)
 
 ---
 
