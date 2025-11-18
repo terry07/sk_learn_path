@@ -37,6 +37,7 @@ Welcome! 🌟 Add articles and resources that you find valuable during your lear
 | Do One Thing Well | Remy Louf | [Blog](https://blog.dottxt.ai/do-one-thing-well.html) | Complex behavior emerges from the composition of simple parts, rather than from the complexity of individual components. | `Agents`, `Automations`
 | The Memory Problem: Why LLMs Sometimes Forget Your Conversation| ByteByteGo |  [Substack](https://substack.com/home/post/p-176340112) | This memory problem isn’t a bug or a temporary glitch. It’s a fundamental architectural constraint that affects every Large Language Model (LLM) available today to some extent. | `LLMs`, `RAG`, `Agents`
 | Building Your First Multi-Agent System: A Beginner’s Guide | Cornellius Yudha Wijaya | [Blog](https://machinelearningmastery.com/building-first-multi-agent-system-beginner-guide/) | It’s becoming essential for practitioners to able to build AI agents, especially multi-agent systems. How can we go about doing so? Let’s explore together. | `Agents`, `CrewAI`, `Agentic Patterns`
+| The most important lesson in Machine Learning | Alejandro Piad Morffis| [Blog](https://blog.apiad.net/p/the-most-important-lesson-in-machine?utm_source=publication-search)| Most applied machine learning research looks beautiful in the paper, but fails spectacularly in real-life. They all fall prey to the same mistake: the original sin of machine learning. | `Machine Learning`, `Data Curation`, `Real-world scenarios`
 
 
 ## 🤝 Contributing
@@ -49,6 +50,7 @@ Feel free to suggest articles or improvements by opening a pull request (updates
 - [AI MakerSpace](https://aimakerspace.io/)
 - [.txt](https://dottxt.co/)
 - [MachineLearningMastery](https://machinelearningmastery.com/)
+- [The Computist Journal](https://blog.apiad.net/)
 
 ---
 
