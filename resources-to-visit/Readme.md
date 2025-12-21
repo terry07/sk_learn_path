@@ -48,9 +48,11 @@ Welcome! 🌟 Add articles and resources that you find valuable during your lear
 | Title | Blog | Link 
 |-------|------|------
 | How to Write Clean Python Code as a Beginner | KDnuggets | [link](https://www.kdnuggets.com/how-to-write-clean-python-code-beginner?__s=qxsonm4o6ou3hrjgiksb&utm_source=drip&utm_medium=email&utm_campaign=MLM+Newsletter+December+20%2C+2024&utm_content=Deploy+Machine+Learning+Models+with+Streamlit+%E2%80%A2+7+Machine+Learning+Projects+For+Beginners)|
+| Syntactic Sugar: Why Python Is Sweet and Pythonic | Real Python | [link](https://realpython.com/) |
 | 8 Built-in Python Decorators to Write Elegant Code | KDnuggets | [link](https://www.kdnuggets.com/8-built-in-python-decorators-to-write-elegant-code)
 | OOP in Python (series of posts) | Mostly Python | [link](https://mostlypython.substack.com/p/oop-in-python)
-| Writing DataFrame-Agnostic Python Code With Narwhals | Real Python [link](https://realpython.com/narwhals-python/)
+| Writing DataFrame-Agnostic Python Code With Narwhals | Real Python  | [link](https://realpython.com/narwhals-python/)|
+
 
 
 
@@ -65,6 +67,8 @@ Feel free to suggest articles or improvements by opening a pull request (updates
 - [.txt](https://dottxt.co/)
 - [MachineLearningMastery](https://machinelearningmastery.com/)
 - [The Computist Journal](https://blog.apiad.net/)
+- [Real Python](https://realpython.com/)
+  
 
 ---
 
