@@ -50,6 +50,9 @@ Welcome! 🌟 Add articles and resources that you find valuable during your lear
 | How to Write Clean Python Code as a Beginner | KDnuggets | [link](https://www.kdnuggets.com/how-to-write-clean-python-code-beginner?__s=qxsonm4o6ou3hrjgiksb&utm_source=drip&utm_medium=email&utm_campaign=MLM+Newsletter+December+20%2C+2024&utm_content=Deploy+Machine+Learning+Models+with+Streamlit+%E2%80%A2+7+Machine+Learning+Projects+For+Beginners)|
 | 8 Built-in Python Decorators to Write Elegant Code | KDnuggets | [link](https://www.kdnuggets.com/8-built-in-python-decorators-to-write-elegant-code)
 | OOP in Python (series of posts) | Mostly Python | [link](https://mostlypython.substack.com/p/oop-in-python)
+| Writing DataFrame-Agnostic Python Code With Narwhals | Real Python [link](https://realpython.com/narwhals-python/)
+
+
 
 ## 🤝 Contributing
 
