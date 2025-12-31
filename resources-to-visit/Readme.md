@@ -61,10 +61,12 @@ Welcome! 🌟 Add articles and resources that you find valuable during your lear
 # 🎁 Special Sessions
 
 ## ⚖️ Evaluations in the AI era
-| Title                                                  | Blog            | Link |
+| Title                                                  | Blog / Platform           | Link |
 |--------------------------------------------------------|-----------------|------|
 | We Iterate on Models. We Can Iterate on Evals, Too    | DeepLearning.ai | [link](https://www.deeplearning.ai/the-batch/we-iterate-on-models-we-can-iterate-on-evals-too/?utm_campaign=The%20Batch&utm_medium=email&_hsenc=p2ANqtz--JWI9yXSXuSWDdKGaPPjkeci3xz9m76E7YGwzFue7xC3C4QwLIiXKlEy85AMCokVkGzF-4PSqLQPxComodTs42bxB7UQ&_hsmi=386426699&utm_content=386424302&utm_source=hs_email) |
 | We Need Better Evals for LLM Applications                                      | DeepLearning.ai        | [link](https://www.deeplearning.ai/the-batch/we-need-better-evals-for-llm-applications/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8-afztMUszJ_VV6AKiEzLFAMzdZhNGggAm8i1kx46WQ-JHHfAq84GquslgvqD9JuJttKDF) |
+| CI/CD for LLM apps: Run tests with Evidently + GitHub actions                                      | Evidently AI       | [link](https://www.evidentlyai.com/blog/llm-unit-testing-ci-cd-github-actions) | 
+| Lena Shakurova - Making LLMs reliable - A practical framework                                     | YouTube channel of PyData        | [link](https://www.youtube.com/watch?v=q_opyZa1nuI&t=20s) |
 
 <!-- | New Title Here                                      | New Blog        | new link | ] -->
 
