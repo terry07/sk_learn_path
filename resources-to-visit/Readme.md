@@ -22,6 +22,7 @@ I will be continuously updating this list with new gems that catch my radar 📡
   - [🔧 Technical Practices](#-technical-practices)
 - [🎁 Special Sessions](#-special-sessions)
   - [⚖️ Evaluations in the AI era](#️-evaluations-in-the-ai-era)
+  - [🎢 Data Engineering and Tools](#-data-engineering-and-tools)
 - [🤝 Contributing](#-contributing)
 - [🔗 Resources](#-resources)
 
@@ -68,6 +69,14 @@ Welcome! 🌟 Add articles and resources that you find valuable during your lear
 | CI/CD for LLM apps: Run tests with Evidently + GitHub actions                                      | Evidently AI       | [link](https://www.evidentlyai.com/blog/llm-unit-testing-ci-cd-github-actions) | 
 | Lena Shakurova - Making LLMs reliable - A practical framework                                     | YouTube channel of PyData        | [link](https://www.youtube.com/watch?v=q_opyZa1nuI&t=20s) |
 
+
+## 🎢 Data Engineering and Tools
+| Title                                                  | Blog / Platform           | Link |
+|--------------------------------------------------------|-----------------|------|
+| How I Run System Design Interviews for Data Engineers | SeattleDataGuy | [link](https://seattledataguy.substack.com/p/how-i-run-system-design-interviews?utm_source=substack&utm_medium=email) |
+| Apache Parquet for Data Engineers: Optimized Data Storage | Estuary | [link](https://estuary.dev/blog/apache-parquet-for-data-engineers/?utm_source=SeattleDataGuy&utm_medium=social&utm_campaign=SeattleDataGuy) |
+
+
 <!-- | New Title Here                                      | New Blog        | new link | ] -->
 
 # 🤝 Contributing
@@ -82,6 +91,7 @@ Feel free to suggest articles or improvements by opening a pull request (updates
 - [MachineLearningMastery](https://machinelearningmastery.com/)
 - [The Computist Journal](https://blog.apiad.net/)
 - [Real Python](https://realpython.com/)
+- [SeattleDataGuy](https://seattledataguy.substack.com/)
   
 
 ---
